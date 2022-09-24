@@ -60,6 +60,30 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+
+    // 1
+    flavorDimensions "env"
+
+    // 2
+    productFlavors {
+        // 3
+        dev {
+            dimension "env"
+            applicationIdSuffix ".dev"
+            resValue "string", "app_name", "[DEV] FlavorsTestApp"
+        }
+        uat {
+            dimension "env"
+            applicationIdSuffix ".uat"
+            resValue "string", "app_name", "[UAT] FlavorsTestApp"
+        }
+        // 4
+        prod {
+            dimension "env"
+            resValue "string", "app_name", "FlavorsTestApp"
+        }
+    }
+
 }
 
 flutter {
