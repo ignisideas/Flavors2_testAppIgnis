@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144129670943",
+    "project_id": "flavors2-testappignis-uat",
+    "storage_bucket": "flavors2-testappignis-uat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144129670943:android:e7c0ca47118dcf25ff3a2a",
+        "android_client_info": {
+          "package_name": "com.ignisideas.flavors2testappignis.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144129670943-qbohcd2ieh63c8a600mc86o6di51jafp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlAonjTKTdva39TBLDE07jQVHj8CDCkVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144129670943-qbohcd2ieh63c8a600mc86o6di51jafp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
