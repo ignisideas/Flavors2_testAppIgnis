@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "144129670943",
-    "project_id": "flavors2-testappignis-uat",
-    "storage_bucket": "flavors2-testappignis-uat.appspot.com"
+    "project_number": "115873275822",
+    "project_id": "flavors2-testappignis-prod",
+    "storage_bucket": "flavors2-testappignis-prod.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:144129670943:android:e7c0ca47118dcf25ff3a2a",
+        "mobilesdk_app_id": "1:115873275822:android:7cb5631a2e46634064723f",
         "android_client_info": {
-          "package_name": "com.ignisideas.flavors2testappignis.uat"
+          "package_name": "com.ignisideas.flavors2testappignis"
         }
       },
       "oauth_client": [
         {
-          "client_id": "144129670943-qbohcd2ieh63c8a600mc86o6di51jafp.apps.googleusercontent.com",
+          "client_id": "115873275822-d9s4448a00gqk83r7i0l78sv3n7l020j.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBlAonjTKTdva39TBLDE07jQVHj8CDCkVI"
+          "current_key": "AIzaSyCLgdMS0adxEXqyGH4l6qEeX9gT0eHVtw0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "144129670943-qbohcd2ieh63c8a600mc86o6di51jafp.apps.googleusercontent.com",
+              "client_id": "115873275822-d9s4448a00gqk83r7i0l78sv3n7l020j.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
