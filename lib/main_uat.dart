@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'firebase/uat/firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:firebase_analytics/firebase_analytics.dart';
 
 import 'app_config.dart';
 import 'home.dart';
