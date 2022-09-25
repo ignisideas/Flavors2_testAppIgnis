@@ -10,7 +10,7 @@ void main() {
     // 2
     environment: Environment.prod,
     // 3
-    appTitle: '[DEV] BuzzwordBingo',
+    appTitle: '[PROD] BuzzwordBingo',
   );
   // 4
   runApp(configuredApp);

@@ -10,7 +10,7 @@ void main() {
     // 2
     environment: Environment.uat,
     // 3
-    appTitle: '[DEV] BuzzwordBingo',
+    appTitle: '[UAT] BuzzwordBingo',
   );
   // 4
   runApp(configuredApp);
